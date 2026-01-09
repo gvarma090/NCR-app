@@ -1,0 +1,9 @@
+/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/armeabi-v7a/CMakeFiles/appmodules.dir
+/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/armeabi-v7a/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir
+/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/edit_cache.dir
+/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/armeabi-v7a/rnscreens_autolinked_build/CMakeFiles/rebuild_cache.dir
