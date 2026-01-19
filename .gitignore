@@ -1,0 +1,23 @@
+# Node
+node_modules/
+
+# Env
+.env
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/app/.cxx/
+android/app/build/intermediates/
+
+# iOS
+ios/build/
+ios/Pods/
+
+# APKs
+*.apk
+
+# Logs
+*.log
+
