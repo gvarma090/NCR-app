@@ -1,9 +1,0 @@
-/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/x86_64/CMakeFiles/appmodules.dir
-/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/x86_64/CMakeFiles/edit_cache.dir
-/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/x86_64/CMakeFiles/rebuild_cache.dir
-/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/x86_64/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
-/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/x86_64/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
-/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/x86_64/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
-/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/x86_64/rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir
-/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/x86_64/rnscreens_autolinked_build/CMakeFiles/edit_cache.dir
-/home/ubuntu/NCR/android/app/.cxx/RelWithDebInfo/jn4jws2q/x86_64/rnscreens_autolinked_build/CMakeFiles/rebuild_cache.dir

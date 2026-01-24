@@ -1,0 +1,19 @@
+import React from 'react';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import CustomerStack from './CustomerStack';
+
+import AuthStack from './AuthStack';
+import DriverStack from './DriverStack';
+
+const Stack = createNativeStackNavigator();
+
+export default function RootNavigator() {
+  return (
+    <Stack.Navigator screenOptions={{ headerShown: false }}>
+      <Stack.Screen name="Auth" component={AuthStack} />
+      <Stack.Screen name="DriverStack" component={DriverStack} />
+      <Stack.Screen name="CustomerStack" component={CustomerStack} />
+    </Stack.Navigator>
+  );
+}
+

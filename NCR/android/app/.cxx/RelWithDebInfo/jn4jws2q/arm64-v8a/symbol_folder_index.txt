@@ -1,1 +1,0 @@
-/home/ubuntu/NCR/android/app/build/intermediates/cxx/RelWithDebInfo/jn4jws2q/obj/arm64-v8a
